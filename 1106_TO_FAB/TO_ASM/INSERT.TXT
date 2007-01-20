@@ -1,0 +1,80 @@
+*******************************************************************************************************
+*                                                                                                     *
+* INSERTION LIST REPORT                                                                               *
+*                                                                                                     *
+* C:\DOCUMENTS AND SETTINGS\ANNAD\DESKTOP\CYCLOPS\CYCLOPS\1106_TO_FAB\ENG_DWG\CYCLOPS PANTILT9-2.MAX  *
+* Fri Nov 03 00:36:56 2006                                                                            *
+*                                                                                                     *
+*******************************************************************************************************
+
+REF DES    VALUE            FOOTPRINT                      XCOORD       YCOORD       ROTATION BOARDSIDE    
+-----------------------------------------------------------------------------------------------------------
+ACCEL1     ANALOG_DEVICES.. ANALOG_DEVICES/ADXL320          923.62 m     -93.30 m    90       BOTTOM                    
+C1         10U              SM/C_0603                       619.00 m     -111.00 m   270      BOTTOM                    
+C2         0.1uF            SM/C_0402                       708.00 m     11.00 m     270      BOTTOM                    
+C3         0.1uF            SM/C_0402                       968.00 m     -267.00 m   180      BOTTOM                    
+C4         0.1uF            SM/C_0402                       868.00 m     -267.00 m   0        BOTTOM                    
+C5         0.1uF            SM/C_0402                       1037.00 m    -189.00 m   0        BOTTOM                    
+C6         0.1uF            SM/C_0402                       591.00 m     -1056.00 m  270      TOP                       
+C9         0.1uF            SM/C_0402                       1720.00 m    355.00 m    0        TOP                       
+C12        100uF            SM/CT_6032_12                   972.00 m     1084.00 m   90       TOP                       
+C13        100uF            SM/CT_6032_12                   707.00 m     926.00 m    180      TOP                       
+C14        0.1uF            SM/C_0603                       1423.00 m    1078.00 m   270      TOP                       
+C15        0.1uF            SM/C_0603                       1120.00 m    1225.00 m   0        TOP                       
+C16        100uF            SM/CT_6032_12                   1136.00 m    394.00 m    180      TOP                       
+C17        2.2uF            SM/C_0603                       1687.00 m    428.00 m    180      TOP                       
+C18        100uF            SM/CT_6032_12                   1418.00 m    434.00 m    270      TOP                       
+C19        0.1uF            SM/C_0402                       1639.00 m    775.00 m    0        TOP                       
+C21        1U               SM/C_0603                       1581.00 m    530.00 m    180      BOTTOM                    
+C22        10U              SM/C_0603                       1121.00 m    837.00 m    0        BOTTOM                    
+C23        0.1uF            SM/C_0402                       1383.00 m    845.00 m    180      BOTTOM                    
+C24        0.1uF            SM/C_0402                       1562.00 m    823.00 m    180      BOTTOM                    
+C25        1000pF           SM/C_0603                       1330.00 m    270.00 m    90       BOTTOM                    
+C26        1000pF           SM/C_0603                       1220.00 m    685.00 m    0        BOTTOM                    
+C27        0.1uF            SM/C_0402                       939.00 m     319.00 m    270      BOTTOM                    
+D1         .                TOSHIBA/CRS06/A                 595.00 m     864.88 m    90       BOTTOM                    
+D2         2A,20V           SM/DIODE_KIS2/SMA               1161.00 m    541.00 m    0        TOP                       
+D3         Green            SM/D_1206_21                    132.50 m     147.00 m    180      TOP                       
+HXFT1      .                IR/MICRO8                       1581.62 m    679.45 m    0        BOTTOM                    
+J1         SERVO 1          BLKCON.100/RH/TM1SQ/W.425/3     1842.00 m    527.00 m    270      BOTTOM                    
+J2         SERVO 2          BLKCON.100/RH/TM1SQ/W.425/3     1846.00 m    903.00 m    270      BOTTOM                    
+J3         Mica2 Sensor  .. XBOW/MICAX                      1184.82 m    -543.42 m   0        BOTTOM                    
+J4         Mica2 HDR (to .. DF9-51P-1V-FIXED                1251.88 m    -961.55 m   0        TOP                       
+J6         Test_Point       NESL/TESTPOINT_0.040/SM         2188.00 m    305.00 m    270      TOP                       
+J8         HEADER 5         PINARRAY_5                      145.00 m     -498.00 m   270      TOP                       
+L1         2.5K@100MHz      SM/C_0603                       702.00 m     -108.00 m   270      BOTTOM                    
+L3         22uH             TDK/SLE10145                    465.00 m     417.57 m    90       BOTTOM                    
+L4         2.5K@100MHz      SM/C_0603                       1257.00 m    829.00 m    180      BOTTOM                    
+MAG2       HONEYWELL/HMC1.. HONEYWELL/HMC1053/16            1282.50 m    1044.60 m   0        BOTTOM                    
+MOUNT_SE..                  MOUNT                           756.00 m     730.00 m    0        TOP                       
+MOUNT_SE..                  MOUNT                           1401.00 m    732.00 m    0        TOP                       
+MTH3                        MOUNT HOLE 4-40                 2172.00 m    1152.00 m   0        TOP                       
+Q1         dual mosfet      SOG.050/8/WG.275/L.250          1635.00 m    942.00 m    270      TOP                       
+Q2         Dual N-CH        SOG.050/8/WG.275/L.250          1151.00 m    761.00 m    90       TOP                       
+R1         330              SM/R_0402                       1850.00 m    721.00 m    0        TOP                       
+R2         330              SM/R_0402                       1750.00 m    1103.00 m   180      TOP                       
+R3         4.7k             SM/C_0402                       1441.00 m    925.00 m    90       TOP                       
+R4         330              SM/R_0402                       1530.00 m    1108.00 m   180      TOP                       
+R5         120              SM/C_0603                       97.00 m      255.00 m    180      TOP                       
+R6         0.025            SM/C_0603                       1149.00 m    930.00 m    180      TOP                       
+R7         200 ohm          SM/C_0402                       1521.00 m    463.00 m    0        BOTTOM                    
+R8         5.1K             SM/R_0402                       1457.00 m    279.00 m    270      BOTTOM                    
+R9         5.1K             SM/R_0402                       1344.00 m    359.00 m    0        BOTTOM                    
+R10        5.1K             SM/R_0402                       1344.00 m    533.00 m    0        BOTTOM                    
+R11        5.1K             SM/R_0402                       1490.00 m    577.00 m    90       BOTTOM                    
+R12        5.1K             SM/R_0402                       824.00 m     321.00 m    90       BOTTOM                    
+R13        5.1K             SM/R_0402                       919.00 m     400.00 m    0        BOTTOM                    
+R14        499K             SM/C_0402                       1343.00 m    475.00 m    0        BOTTOM                    
+R15        499K             SM/C_0402                       1344.00 m    416.00 m    0        BOTTOM                    
+R16        499K             SM/C_0402                       1343.00 m    588.00 m    180      BOTTOM                    
+R17        499K             SM/C_0402                       1397.00 m    281.00 m    90       BOTTOM                    
+R18        499K             SM/C_0402                       882.00 m     319.00 m    270      BOTTOM                    
+R19        499K             SM/C_0402                       916.00 m     463.00 m    0        BOTTOM                    
+R20        1.00 Mohm 1%     SM/C_0402                       918.00 m     521.00 m    0        BOTTOM                    
+R21        1.00 Mohm 1%     SM/C_0402                       939.00 m     603.00 m    90       BOTTOM                    
+U1         .                SLIDE_SWITCH                    632.67 m     1131.37 m   0        BOTTOM                    
+U2         CONN_JACK_PWR    CUI/PJ-016                      323.83 m     843.92 m    90       TOP                       
+U3         MAXIM/MAX882/8.. MAXIM/SO/8                      1639.00 m    606.00 m    0        TOP                       
+U4         MAXIM/MAX608     SOG.050/8/WG.244/L.200          1223.00 m    1076.00 m   90       TOP                       
+U5         NATIONAL/LMV324  SOG.050/14/WG.244/L.350         1132.00 m    454.00 m    90       BOTTOM                    
+U6         .                NESL/22GAUGE/2                  69.00 m      490.00 m    270      TOP                       
